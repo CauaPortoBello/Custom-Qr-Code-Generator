@@ -52,7 +52,7 @@ O projeto foi construído utilizando as melhores práticas de desenvolvimento we
 
 ---
 
-# Usa English
+# English-US
 
 ## 💻 About the project
 
