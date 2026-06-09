@@ -1,6 +1,3 @@
-Aqui está a versão final estruturada exatamente para o GitHub (README.md), organizada com cabeçalhos claros identificando as versões em Português-BR e Inglês para facilitar a navegação do usuário.
-
-Markdown
 # 📱 Custom QR Code Generator
 
 <p align="center">
