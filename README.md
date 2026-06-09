@@ -20,7 +20,7 @@
 
 ---
 
-# 🇧🇷 Português-BR
+# Português-BR
 
 ## 💻 Sobre o projeto
 
@@ -52,7 +52,7 @@ O projeto foi construído utilizando as melhores práticas de desenvolvimento we
 
 ---
 
-# 🇺🇸 English
+# Usa English
 
 ## 💻 About the project
 
